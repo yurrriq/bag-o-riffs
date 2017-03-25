@@ -1,6 +1,5 @@
-* Bag o' Riffs
-Miscellaneous scores/tabs/transcriptions of tasty jams.
+#+STARTUP: showall
+* Transcribing
+/Miscellaneous scores/tabs/transcriptions./
 
-** "The Hand" by Ty Segall
-[[file:The_Hand-1.png]]
-[[file:The_Hand-2.png]]
+** [[file:The_Hand.pdf]["The Hand" by Ty Segall]]
