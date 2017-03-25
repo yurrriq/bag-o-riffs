@@ -2,4 +2,5 @@
 * Transcribing
 /Miscellaneous scores/tabs/transcriptions./
 
-** [[file:The_Hand.pdf]["The Hand" by Ty Segall]]
+** [[file:Ty%20Segall/][Ty Segall]]
+*** [[file:Ty%20Segall/The%20Hand.pdf][The Hand]]
